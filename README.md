@@ -4,6 +4,8 @@ Example showing a custom sign-in page using NextAuth.js with Two Factor Authenti
 
 ## Features
 
+Testing
+
 - Users can manage 2FA
 - Enforce 2FA during login
 - First class integration with NextAuth.js
